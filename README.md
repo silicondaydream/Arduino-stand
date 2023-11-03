@@ -22,7 +22,7 @@ Download this repo and drag the stl file into your slicer of choice. Or redesign
 - Cura: My slicer of choice.
 
 ## Printing the Design
-I use a humble Ender 3 v2 PRO to print 99% of my stuff. I utilze Inland PLA+ so I set the nozzle temp to 205C and the bed temp to 60C
+I use a humble Ender 3 v2 PRO to print 99% of my stuff. I utilize Inland PLA+ so I set the nozzle temp to 205C and the bed temp to 60C
 
 ### Printer Settings For This Design
 - Resolution: [Value]
