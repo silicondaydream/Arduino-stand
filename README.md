@@ -25,10 +25,10 @@ Download this repo and drag the stl file into your slicer of choice. Or redesign
 I use a humble Ender 3 v2 PRO to print 99% of my stuff. I utilize Inland PLA+ so I set the nozzle temp to 205C and the bed temp to 60C
 
 ### Printer Settings For This Design
-- Resolution: [Value]
-- Infill: [Value]%
-- Support: [Yes/No]
-- Layer Height: [Value] mm
+- Resolution: [Standard]
+- Infill: [20]%
+- Support: [NO]
+- Layer Height: [0.2] mm
 
 ### Material Recommendations
 - PLA: Basic filament.
