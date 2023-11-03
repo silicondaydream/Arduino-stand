@@ -35,7 +35,7 @@ I use a humble Ender 3 v2 PRO to print 99% of my stuff. I utilize Inland PLA+ so
 - PLA+: For stronger product needs.
 
 ## Usage
-This proect is intended for prototyping components 
+This project is intended for prototyping components 
 
 ## Collaboration and Contributions
 Feel free to augment or improve upon this design.
